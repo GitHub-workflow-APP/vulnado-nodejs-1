@@ -6,4 +6,3 @@ cd
 des
 dd
 s
-s
